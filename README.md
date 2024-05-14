@@ -45,7 +45,7 @@ Este é um projeto de e-commerce desenvolvido em Java utilizando Spring Framewor
     ```
 
 3. **Acesse a aplicação**:
-    - Frontend: `http://localhost:8080`
+    - Default: `http://localhost:8080`
     - H2 Console: `http://localhost:8080/h2-console`
 
 ## Configurações
